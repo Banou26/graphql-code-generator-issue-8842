@@ -1,4 +1,4 @@
-# graphql-code-generator issue XXXX
+# graphql-code-generator issue 8842
 
 Using these fragments
 
